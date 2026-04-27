@@ -1,0 +1,8 @@
+Tecnologias que me ha gustado aprender:
+
+- HTML
+- CSS
+- JAVASCRIPT
+- .NET
+- PYTHON
+- JAVA
