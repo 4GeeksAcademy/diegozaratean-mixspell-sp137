@@ -1,0 +1,4 @@
+Tecnologias que me ha gustado aprender:
+-HTML
+-CSS
+-BOOTSTRAP
