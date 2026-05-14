@@ -1,0 +1,4 @@
+El uso organizativo de GitHub mediante ramas es la faceta del desarrollo Full-stack que más me ha interesado por el momento.
+Además de eso aprender Bootstrap quita mucha carga de la parte visual del Frontend y también se agradece.
+. Bootstrap
+. GitHub
